@@ -54,8 +54,9 @@ For visual representation, two stack lights are placed on the safety fence, one 
 <span style="color:red"> __Explain how safety works when turntable is moving__</span>
 
 <figure>
-    <img src="Images/SafetySwitches Smartpad.jpg"
+    <img src="SafetySwitches Smartpad.jpg"
          alt="SafetySwitches Smartpad.jpg" width= "300">
+    
     <figcaption>SafetySwitches, Smartpad.jpg</figcaption>
 </figure>
 
